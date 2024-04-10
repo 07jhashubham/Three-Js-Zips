@@ -13,4 +13,4 @@ Step 3
 
 ## Acknowledgements
 
- - [Bruno Simon](https://threejs-journey.com/)
+ - [Bruno Simon](https://bruno-simon.com/)
